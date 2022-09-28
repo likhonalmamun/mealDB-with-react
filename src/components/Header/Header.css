@@ -1,0 +1,31 @@
+.navbar {
+  z-index: 7;
+  position: sticky;
+  top: 0;
+  height: 80px;
+  background-color: #1c2b35;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 140px;
+  align-items: center;
+}
+.navbar h1{
+  font-size: 32px;
+  color: rgb(20, 234, 245);
+}
+.navbar h1 span {
+  color: rgb(151, 208, 252);
+}
+.links a {
+  color: aliceblue;
+  font-size: 18px;
+  text-decoration: none;
+  margin-left: 36px;
+}
+.links a:hover {
+  color: rgb(73, 243, 252);
+
+  font-size: 19px;
+  transition: all;
+  transition-duration: 200ms;
+}

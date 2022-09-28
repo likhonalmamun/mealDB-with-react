@@ -1,0 +1,15 @@
+.body{
+    text-align: center;
+    margin: 80px;
+    margin-top: 25px;
+    /* padding: 20px ; */
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    /* gap: 80px; */
+    /* border:  1px solid salmon; */
+    background: rgb(163, 214, 253);
+    border-radius: 15px;
+    box-shadow: 0px 5px 8px  5px rgba(128, 128, 128, 0.321);
+    color: rgb(5, 110, 116);
+    position: relative;
+}

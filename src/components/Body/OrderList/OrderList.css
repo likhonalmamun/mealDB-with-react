@@ -1,0 +1,28 @@
+.Orders {
+  background-color: rgb(73, 243, 252);
+  /* border: 1px solid gray; */
+  border-radius: 15px;
+  margin: 120px 20px 50px 0;
+
+  min-height: 650px;
+  height: fit-content;
+  padding: 15px;
+  position: sticky;
+  top: 100px;
+  
+}
+.Orders button {
+  padding: 10px 25px;
+  margin-bottom: 20px;
+  border: 3px solid aqua;
+  background-color: #fff;
+  border-radius: 10px;
+  transition: all 200ms;
+  font-size: 12px;
+}
+.Orders button:hover {
+  background-color: #fff;
+  border: 3px solid rgb(31, 183, 248);
+  font-size: 13px;
+  font-weight: 600;
+}

@@ -1,0 +1,13 @@
+.ordered-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* font-size: 16px; */
+  background-color: aliceblue;
+  border-radius: 11px;
+  margin: 8px auto;
+  padding: 5px 10px;
+}
+.ordered-item h3 {
+  margin: 7px;
+}

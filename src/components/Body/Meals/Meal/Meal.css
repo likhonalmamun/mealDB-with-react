@@ -1,0 +1,26 @@
+.meal {
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+  color: rgb(3, 133, 140);
+}
+.meal img {
+  width: 100%;
+  border-radius: 10px;
+}
+.meal button {
+  padding: 10px 25px;
+  margin-bottom: 20px;
+  border: 3px solid aqua;
+  background-color: rgb(138, 239, 249);
+  border-radius: 10px;
+  transition: all 200ms;
+  font-size: 16px;
+  font-weight: 600;
+}
+.meal button:hover {
+  background-color: #fff;
+  border: 3px solid rgb(0, 225, 225);
+  font-size: 13px;
+ 
+}
